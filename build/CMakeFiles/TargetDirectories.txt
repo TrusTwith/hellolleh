@@ -1,0 +1,3 @@
+/home/deom/hellolleh/build/CMakeFiles/hellolleh.dir
+/home/deom/hellolleh/build/CMakeFiles/edit_cache.dir
+/home/deom/hellolleh/build/CMakeFiles/rebuild_cache.dir

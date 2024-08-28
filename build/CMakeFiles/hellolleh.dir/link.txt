@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/hellolleh.dir/main.cpp.o -o hellolleh 
